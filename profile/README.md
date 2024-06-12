@@ -1,12 +1,19 @@
-## Hi there 👋
+## 로스템
+소통을 통해 잃어버린 물건을 찾아보세요!
 
-<!--
 
-**Here are some ideas to get you started:**
+<-- ## 배포 주소 아니면 리포지토리 이동-->
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 팀원 소개
+
+
+## 프로젝트 소개
+ 로스템은 게시판과 채팅 기능을 이용하여 잃어버린 물건을 찾고 찾아주는 서비스입니다.
+
+## 기술 스택
+
+## 화면 구성
+
+## 주요 기능
+
+##
