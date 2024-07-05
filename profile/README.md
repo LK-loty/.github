@@ -18,6 +18,14 @@ BE : https://github.com/LK-loty/lostem-back
  게시물 작성부터 후기 작성까지 서로에게 도움이 되어주는 서비스입니다.
 
 ## 기술 스택
+-  Spring Boot, Java
+-  Spring Web, Spring Data JPA, Spring Security, JWT
+-  MySQL, Redis, AWS S3
+-  AWS EC2, AWS RDS
+-  Postman
+-  Git, GitHub
+-  React, JavaScript
+-  Axios
 
 ## 화면 구성
 
