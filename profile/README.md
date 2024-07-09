@@ -28,12 +28,12 @@ BE : https://github.com/LK-loty/lostem-back
 -  Axios
 
 ## 주요 화면
-<img src="https://github.com/LK-loty/.github/assets/110155447/0e5ceb0a-cbe9-493d-8fc9-57d311014dd3" width="300" height="300" />  
-<img src="https://github.com/LK-loty/.github/assets/110155447/b6c6e470-8644-409f-b72a-f95146ebb7d6" width="300" height="300" />  
-<img src="https://github.com/LK-loty/.github/assets/110155447/33151b69-c7cf-4c70-8fdc-3c0d24ced948" width="300" height="300" /> 
-<img src="https://github.com/LK-loty/.github/assets/110155447/d07579a1-6030-4903-89f1-3f8616648309" width="300" height="300" /> 
-<img src="https://github.com/LK-loty/.github/assets/110155447/569fea9b-14bc-4f12-b032-14b916743b1f" width="300" height="300" /> 
-<img src="https://github.com/LK-loty/.github/assets/110155447/410375fb-48fa-4dcc-9edd-9fcd017a5242" width="300" height="300" /> 
+<img src="https://github.com/LK-loty/.github/assets/110155447/0e5ceb0a-cbe9-493d-8fc9-57d311014dd3" width="200" height="300" />  
+<img src="https://github.com/LK-loty/.github/assets/110155447/b6c6e470-8644-409f-b72a-f95146ebb7d6" width="350" height="300" />  
+<img src="https://github.com/LK-loty/.github/assets/110155447/33151b69-c7cf-4c70-8fdc-3c0d24ced948" width="350" height="300" /> 
+<img src="https://github.com/LK-loty/.github/assets/110155447/d07579a1-6030-4903-89f1-3f8616648309" width="200" height="300" /> 
+<img src="https://github.com/LK-loty/.github/assets/110155447/569fea9b-14bc-4f12-b032-14b916743b1f" width="350" height="300" /> 
+<img src="https://github.com/LK-loty/.github/assets/110155447/410375fb-48fa-4dcc-9edd-9fcd017a5242" width="350" height="300" /> 
 
 
 ## 주요 기능
